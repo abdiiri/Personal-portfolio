@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://abdi.dev/projects/b3c2a64c-3ca2-4324-90e9-16f7b94e2a30
+**URL**: https://personal-portfolio-sable-delta-34.vercel.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use abdi**
 
-Simply visit the [abdi Project](https://abdi.dev/projects/b3c2a64c-3ca2-4324-90e9-16f7b94e2a30) and start prompting.
+Simply visit the [abdi Project](https://personal-portfolio-sable-delta-34.vercel.app/) and start prompting.
 
 Changes made via abdi will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [abdi](https://abdi.dev/projects/b3c2a64c-3ca2-4324-90e9-16f7b94e2a30) and click on Share -> Publish.
+Simply open [abdi](https://personal-portfolio-sable-delta-34.vercel.app/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my abdi project?
 
