@@ -20,7 +20,7 @@ const Portfolio = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
       tech: ["JavaScript", "HTML", "CSS", "External APIs"],
       github: "#",
-      demo: "#"
+      demo: "https://code-challenge-ramen-rater.vercel.app/"
     },
     {
       title: "Personal Portfolio Website",
